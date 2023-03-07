@@ -1,0 +1,1016 @@
+!SESSION 2023-03-07 20:26:22.322 -----------------------------------------------
+eclipse.buildId=4.15.0.2020042
+java.fullversion=8.0.7.5 - pwa6480sr7fp5ifix-20220310_01(SR7 FP5+IJ37785)
+JRE 1.8.0 Windows 11 amd64-64-Bit Compressed References 20220104_19630 (JIT enabled, AOT enabled)
+OpenJ9   - 2d4c7d9
+OMR      - 59845b7
+IBM      - 3c151c1
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide tools_auto -showlocation -product com.ibm.etools.msgbroker.tooling.ide
+Command-line arguments:  -data c:\aceworkspace -os win32 -ws win32 -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide tools_auto -showlocation -product com.ibm.etools.msgbroker.tooling.ide
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-03-07 20:26:27.066
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-03-07 20:26:27.067
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-03-07 20:26:27.068
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.pattern.capture.annotation' register a package for 'http://www.ibm.com/patternAnnotation/2010'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-03-07 20:26:27.070
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'org.eclipse.emf.ecore' register a package for 'http://www.eclipse.org/emf/2002/Ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-03-07 20:26:27.076
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY org.eclipse.ui 2 2 2023-03-07 20:26:35.967
+!MESSAGE Invalid preference category path: com.ibm.importer.preferences (bundle: com.ibm.adapter.c, page: com.ibm.adapter.c.ui.preferencepage.CPreferencePage)
+
+!ENTRY org.eclipse.ui 2 2 2023-03-07 20:26:35.967
+!MESSAGE Invalid preference category path: com.ibm.importer.preferences (bundle: com.ibm.etools.cobol.preference.ui, page: com.ibm.etools.cobol.preference.ui.preferencepage.CobolPreferencePage)
+
+!ENTRY org.eclipse.ui 2 2 2023-03-07 20:26:35.968
+!MESSAGE Invalid preference category path: com.ibm.debug.breakpoints.common.pref.tracepoint (bundle: com.ibm.debug.wsa, page: com.ibm.debug.wsa.WSATracepointPreferencePage)
+
+!ENTRY org.eclipse.jface.text 2 0 2023-03-07 20:26:40.776
+!MESSAGE Duplicate template id: 'com.ibm.datatools.sqlxeditor.templates.xmlnamespaces2'
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-03-07 20:26:41.952
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\010556749'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.ibm.mq.runtime 1 0 2023-03-07 20:26:43.182
+!MESSAGE 
+
+!ENTRY com.ibm.mq.runtime 1 0 2023-03-07 20:26:43.183
+!MESSAGE C:\Program Files\IBM\ACE\12.0.5.0\tools>mqsifindmqpath
+
+!ENTRY com.ibm.mq.runtime 1 0 2023-03-07 20:26:43.603
+!MESSAGE BIP8071I: Successful command completion. C:\Program Files\IBM\MQ
+
+!ENTRY com.ibm.mq.runtime 1 0 2023-03-07 20:26:43.604
+!MESSAGE MQ Install location found:C:/Program Files/IBM/MQ
+
+!ENTRY com.ibm.mq.runtime 1 0 2023-03-07 20:26:43.604
+!MESSAGE 
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2023-03-07 20:30:33.639
+!MESSAGE 
+
+!ENTRY com.ibm.etools.mft.tutorials 1 0 2023-03-07 20:30:34.079
+!MESSAGE Waiting for the builds to complete
+
+!ENTRY com.ibm.etools.mft.tutorials 1 0 2023-03-07 20:30:41.692
+!MESSAGE Build jobs completed.
+!SESSION 2023-03-07 20:33:00.536 -----------------------------------------------
+eclipse.buildId=4.15.0.2020042
+java.fullversion=8.0.7.5 - pwa6480sr7fp5ifix-20220310_01(SR7 FP5+IJ37785)
+JRE 1.8.0 Windows 11 amd64-64-Bit Compressed References 20220104_19630 (JIT enabled, AOT enabled)
+OpenJ9   - 2d4c7d9
+OMR      - 59845b7
+IBM      - 3c151c1
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b c:\aceworkspace\HTTPInputApplication\trybar.bar -a HTTPInputApplication -trace
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data C:\aceworkspace -b c:\aceworkspace\HTTPInputApplication\trybar.bar -a HTTPInputApplication -trace
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-03-07 20:33:01.776
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-03-07 20:33:01.932
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-03-07 20:33:01.933
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-03-07 20:33:01.933
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.pattern.capture.annotation' register a package for 'http://www.ibm.com/patternAnnotation/2010'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-03-07 20:33:01.936
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'org.eclipse.emf.ecore' register a package for 'http://www.eclipse.org/emf/2002/Ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-03-07 20:33:01.942
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2023-03-07 20:33:03.382
+!MESSAGE 
+
+!ENTRY com.ibm.etools.references 4 0 2023-03-07 20:33:19.029
+!MESSAGE Framework stop [EXCEPTION] Exception during shutdown. Indexer will be rebuilt on next startup.
+!STACK 0
+java.lang.NullPointerException
+	at com.ibm.etools.references.internal.management.InternalReferenceManager.hasStar(InternalReferenceManager.java:1394)
+	at com.ibm.etools.references.internal.management.InternalReferenceManager$ShutdownCode.call(InternalReferenceManager.java:175)
+	at com.ibm.etools.references.internal.management.InternalReferenceManager$ShutdownCode.call(InternalReferenceManager.java:1)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:277)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1160)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:825)
+	at com.ibm.etools.references.internal.ReferenceThreadFactrory$ReferencesThread.run(ReferenceThreadFactrory.java:37)
+
+!ENTRY com.ibm.etools.references 4 0 2023-03-07 20:33:19.030
+!MESSAGE bundle com.ibm.etools.references:1.2.400.v20150320_0049 (422)[Reference Manager(1)] : The deactivate method has thrown an exception
+!STACK 0
+java.lang.NullPointerException
+	at com.ibm.etools.references.internal.management.InternalReferenceManager.deactivate(InternalReferenceManager.java:1153)
+	at com.ibm.etools.references.management.ReferenceManager.deactivate(ReferenceManager.java:321)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:90)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:55)
+	at java.lang.reflect.Method.invoke(Method.java:508)
+	at org.apache.felix.scr.impl.inject.methods.BaseMethod.invokeMethod(BaseMethod.java:228)
+	at org.apache.felix.scr.impl.inject.methods.BaseMethod.access$500(BaseMethod.java:41)
+	at org.apache.felix.scr.impl.inject.methods.BaseMethod$Resolved.invoke(BaseMethod.java:664)
+	at org.apache.felix.scr.impl.inject.methods.BaseMethod.invoke(BaseMethod.java:510)
+	at org.apache.felix.scr.impl.inject.methods.ActivateMethod.invoke(ActivateMethod.java:317)
+	at org.apache.felix.scr.impl.inject.methods.ActivateMethod.invoke(ActivateMethod.java:307)
+	at org.apache.felix.scr.impl.manager.SingleComponentManager.disposeImplementationObject(SingleComponentManager.java:407)
+	at org.apache.felix.scr.impl.manager.SingleComponentManager.deleteComponent(SingleComponentManager.java:163)
+	at org.apache.felix.scr.impl.manager.AbstractComponentManager.doDeactivate(AbstractComponentManager.java:831)
+	at org.apache.felix.scr.impl.manager.AbstractComponentManager.deactivateInternal(AbstractComponentManager.java:805)
+	at org.apache.felix.scr.impl.manager.AbstractComponentManager.dispose(AbstractComponentManager.java:584)
+	at org.apache.felix.scr.impl.manager.ConfigurableComponentHolder.disposeComponents(ConfigurableComponentHolder.java:716)
+	at org.apache.felix.scr.impl.BundleComponentActivator.dispose(BundleComponentActivator.java:510)
+	at org.apache.felix.scr.impl.Activator.disposeComponents(Activator.java:429)
+	at org.apache.felix.scr.impl.Activator.access$300(Activator.java:49)
+	at org.apache.felix.scr.impl.Activator$ScrExtension.destroy(Activator.java:292)
+	at org.apache.felix.scr.impl.AbstractExtender$1.run(AbstractExtender.java:216)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:522)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:277)
+	at org.apache.felix.scr.impl.AbstractExtender.destroyExtension(AbstractExtender.java:238)
+	at org.apache.felix.scr.impl.AbstractExtender.bundleChanged(AbstractExtender.java:132)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.dispatchEvent(BundleContextImpl.java:973)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:151)
+	at org.eclipse.osgi.internal.framework.EquinoxEventPublisher.publishBundleEventPrivileged(EquinoxEventPublisher.java:235)
+	at org.eclipse.osgi.internal.framework.EquinoxEventPublisher.publishBundleEvent(EquinoxEventPublisher.java:141)
+	at org.eclipse.osgi.internal.framework.EquinoxEventPublisher.publishBundleEvent(EquinoxEventPublisher.java:133)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor.publishModuleEvent(EquinoxContainerAdaptor.java:217)
+	at org.eclipse.osgi.container.Module.publishEvent(Module.java:498)
+	at org.eclipse.osgi.container.Module.doStop(Module.java:656)
+	at org.eclipse.osgi.container.Module.stop(Module.java:520)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.decStartLevel(ModuleContainer.java:1885)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1760)
+	at org.eclipse.osgi.container.SystemModule.stopWorker(SystemModule.java:275)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$SystemBundle$EquinoxSystemModule.stopWorker(EquinoxBundle.java:202)
+	at org.eclipse.osgi.container.Module.doStop(Module.java:658)
+	at org.eclipse.osgi.container.Module.stop(Module.java:520)
+	at org.eclipse.osgi.container.SystemModule.stop(SystemModule.java:207)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$SystemBundle$EquinoxSystemModule$1.run(EquinoxBundle.java:220)
+	at java.lang.Thread.run(Thread.java:825)
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-03-07 20:33:19.600
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2023-03-07 22:02:47.784 -----------------------------------------------
+eclipse.buildId=4.15.0.2020042
+java.fullversion=8.0.7.5 - pwa6480sr7fp5ifix-20220310_01(SR7 FP5+IJ37785)
+JRE 1.8.0 Windows 11 amd64-64-Bit Compressed References 20220104_19630 (JIT enabled, AOT enabled)
+OpenJ9   - 2d4c7d9
+OMR      - 59845b7
+IBM      - 3c151c1
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b c:\aceworkspace\HTTPInputApplication\trybar.bar -a HTTPInputApplication -trace -l
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data C:\aceworkspace -b c:\aceworkspace\HTTPInputApplication\trybar.bar -a HTTPInputApplication -trace -l
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-03-07 22:02:49.045
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-03-07 22:02:49.251
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-03-07 22:02:49.251
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-03-07 22:02:49.252
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.pattern.capture.annotation' register a package for 'http://www.ibm.com/patternAnnotation/2010'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-03-07 22:02:49.254
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'org.eclipse.emf.ecore' register a package for 'http://www.eclipse.org/emf/2002/Ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-03-07 22:02:49.260
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.references 4 0 2023-03-07 22:02:50.488
+!MESSAGE Framework stop [EXCEPTION] Exception during shutdown. Indexer will be rebuilt on next startup.
+!STACK 0
+java.lang.NullPointerException
+	at com.ibm.etools.references.internal.management.InternalReferenceManager.hasStar(InternalReferenceManager.java:1394)
+	at com.ibm.etools.references.internal.management.InternalReferenceManager$ShutdownCode.call(InternalReferenceManager.java:175)
+	at com.ibm.etools.references.internal.management.InternalReferenceManager$ShutdownCode.call(InternalReferenceManager.java:1)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:277)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1160)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:825)
+	at com.ibm.etools.references.internal.ReferenceThreadFactrory$ReferencesThread.run(ReferenceThreadFactrory.java:37)
+
+!ENTRY com.ibm.etools.references 4 0 2023-03-07 22:02:50.490
+!MESSAGE bundle com.ibm.etools.references:1.2.400.v20150320_0049 (422)[Reference Manager(1)] : The deactivate method has thrown an exception
+!STACK 0
+java.lang.NullPointerException
+	at com.ibm.etools.references.internal.management.InternalReferenceManager.deactivate(InternalReferenceManager.java:1153)
+	at com.ibm.etools.references.management.ReferenceManager.deactivate(ReferenceManager.java:321)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:90)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:55)
+	at java.lang.reflect.Method.invoke(Method.java:508)
+	at org.apache.felix.scr.impl.inject.methods.BaseMethod.invokeMethod(BaseMethod.java:228)
+	at org.apache.felix.scr.impl.inject.methods.BaseMethod.access$500(BaseMethod.java:41)
+	at org.apache.felix.scr.impl.inject.methods.BaseMethod$Resolved.invoke(BaseMethod.java:664)
+	at org.apache.felix.scr.impl.inject.methods.BaseMethod.invoke(BaseMethod.java:510)
+	at org.apache.felix.scr.impl.inject.methods.ActivateMethod.invoke(ActivateMethod.java:317)
+	at org.apache.felix.scr.impl.inject.methods.ActivateMethod.invoke(ActivateMethod.java:307)
+	at org.apache.felix.scr.impl.manager.SingleComponentManager.disposeImplementationObject(SingleComponentManager.java:407)
+	at org.apache.felix.scr.impl.manager.SingleComponentManager.deleteComponent(SingleComponentManager.java:163)
+	at org.apache.felix.scr.impl.manager.AbstractComponentManager.doDeactivate(AbstractComponentManager.java:831)
+	at org.apache.felix.scr.impl.manager.AbstractComponentManager.deactivateInternal(AbstractComponentManager.java:805)
+	at org.apache.felix.scr.impl.manager.AbstractComponentManager.dispose(AbstractComponentManager.java:584)
+	at org.apache.felix.scr.impl.manager.ConfigurableComponentHolder.disposeComponents(ConfigurableComponentHolder.java:716)
+	at org.apache.felix.scr.impl.BundleComponentActivator.dispose(BundleComponentActivator.java:510)
+	at org.apache.felix.scr.impl.Activator.disposeComponents(Activator.java:429)
+	at org.apache.felix.scr.impl.Activator.access$300(Activator.java:49)
+	at org.apache.felix.scr.impl.Activator$ScrExtension.destroy(Activator.java:292)
+	at org.apache.felix.scr.impl.AbstractExtender$1.run(AbstractExtender.java:216)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:522)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:277)
+	at org.apache.felix.scr.impl.AbstractExtender.destroyExtension(AbstractExtender.java:238)
+	at org.apache.felix.scr.impl.AbstractExtender.bundleChanged(AbstractExtender.java:132)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.dispatchEvent(BundleContextImpl.java:973)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:151)
+	at org.eclipse.osgi.internal.framework.EquinoxEventPublisher.publishBundleEventPrivileged(EquinoxEventPublisher.java:235)
+	at org.eclipse.osgi.internal.framework.EquinoxEventPublisher.publishBundleEvent(EquinoxEventPublisher.java:141)
+	at org.eclipse.osgi.internal.framework.EquinoxEventPublisher.publishBundleEvent(EquinoxEventPublisher.java:133)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor.publishModuleEvent(EquinoxContainerAdaptor.java:217)
+	at org.eclipse.osgi.container.Module.publishEvent(Module.java:498)
+	at org.eclipse.osgi.container.Module.doStop(Module.java:656)
+	at org.eclipse.osgi.container.Module.stop(Module.java:520)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.decStartLevel(ModuleContainer.java:1885)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1760)
+	at org.eclipse.osgi.container.SystemModule.stopWorker(SystemModule.java:275)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$SystemBundle$EquinoxSystemModule.stopWorker(EquinoxBundle.java:202)
+	at org.eclipse.osgi.container.Module.doStop(Module.java:658)
+	at org.eclipse.osgi.container.Module.stop(Module.java:520)
+	at org.eclipse.osgi.container.SystemModule.stop(SystemModule.java:207)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$SystemBundle$EquinoxSystemModule$1.run(EquinoxBundle.java:220)
+	at java.lang.Thread.run(Thread.java:825)
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-03-07 22:02:51.031
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2023-03-07 22:25:56.942 -----------------------------------------------
+eclipse.buildId=4.15.0.2020042
+java.fullversion=8.0.7.5 - pwa6480sr7fp5ifix-20220310_01(SR7 FP5+IJ37785)
+JRE 1.8.0 Windows 11 amd64-64-Bit Compressed References 20220104_19630 (JIT enabled, AOT enabled)
+OpenJ9   - 2d4c7d9
+OMR      - 59845b7
+IBM      - 3c151c1
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b http.bar -a HTTPInputApplication -trace -compileOnly
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data c:\aceworkspace -b http.bar -a HTTPInputApplication -trace -compileOnly
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-03-07 22:25:58.226
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-03-07 22:25:58.545
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-03-07 22:25:58.557
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-03-07 22:25:58.558
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.pattern.capture.annotation' register a package for 'http://www.ibm.com/patternAnnotation/2010'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-03-07 22:25:58.560
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'org.eclipse.emf.ecore' register a package for 'http://www.eclipse.org/emf/2002/Ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-03-07 22:25:58.568
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2023-03-07 22:26:02.822
+!MESSAGE 
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-03-07 22:26:21.009
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2023-03-07 22:31:20.577 -----------------------------------------------
+eclipse.buildId=4.15.0.2020042
+java.fullversion=8.0.7.5 - pwa6480sr7fp5ifix-20220310_01(SR7 FP5+IJ37785)
+JRE 1.8.0 Windows 11 amd64-64-Bit Compressed References 20220104_19630 (JIT enabled, AOT enabled)
+OpenJ9   - 2d4c7d9
+OMR      - 59845b7
+IBM      - 3c151c1
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b http.bar -a HTTPInputApplication -trace -compileOnly
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data c:\aceworkspace -b http.bar -a HTTPInputApplication -trace -compileOnly
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-03-07 22:31:21.853
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-03-07 22:31:22.178
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-03-07 22:31:22.178
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-03-07 22:31:22.178
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.pattern.capture.annotation' register a package for 'http://www.ibm.com/patternAnnotation/2010'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-03-07 22:31:22.180
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'org.eclipse.emf.ecore' register a package for 'http://www.eclipse.org/emf/2002/Ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-03-07 22:31:22.187
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2023-03-07 22:31:25.701
+!MESSAGE 
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-03-07 22:31:41.465
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2023-03-07 22:32:21.737 -----------------------------------------------
+eclipse.buildId=4.15.0.2020042
+java.fullversion=8.0.7.5 - pwa6480sr7fp5ifix-20220310_01(SR7 FP5+IJ37785)
+JRE 1.8.0 Windows 11 amd64-64-Bit Compressed References 20220104_19630 (JIT enabled, AOT enabled)
+OpenJ9   - 2d4c7d9
+OMR      - 59845b7
+IBM      - 3c151c1
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b myapp.bar -a HTTPInputApplication -trace -compileOnly
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data C:\aceworkspace -b myapp.bar -a HTTPInputApplication -trace -compileOnly
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-03-07 22:32:23.214
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-03-07 22:32:23.570
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-03-07 22:32:23.570
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-03-07 22:32:23.571
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.pattern.capture.annotation' register a package for 'http://www.ibm.com/patternAnnotation/2010'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-03-07 22:32:23.572
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'org.eclipse.emf.ecore' register a package for 'http://www.eclipse.org/emf/2002/Ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-03-07 22:32:23.579
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2023-03-07 22:32:27.902
+!MESSAGE 
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-03-07 22:32:43.938
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2023-03-07 22:17:33.893 -----------------------------------------------
+eclipse.buildId=4.15.0.2020042
+java.fullversion=8.0.7.5 - pwa6480sr7fp5ifix-20220310_01(SR7 FP5+IJ37785)
+JRE 1.8.0 Windows 11 amd64-64-Bit Compressed References 20220104_19630 (JIT enabled, AOT enabled)
+OpenJ9   - 2d4c7d9
+OMR      - 59845b7
+IBM      - 3c151c1
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide tools_auto -showlocation -product com.ibm.etools.msgbroker.tooling.ide
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide tools_auto -showlocation -product com.ibm.etools.msgbroker.tooling.ide
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-03-07 22:34:06.167
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-03-07 22:34:07.033
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-03-07 22:34:07.033
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-03-07 22:34:07.034
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.pattern.capture.annotation' register a package for 'http://www.ibm.com/patternAnnotation/2010'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-03-07 22:34:07.036
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'org.eclipse.emf.ecore' register a package for 'http://www.eclipse.org/emf/2002/Ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-03-07 22:34:07.042
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY org.eclipse.ui 2 2 2023-03-07 22:34:16.996
+!MESSAGE Invalid preference category path: com.ibm.importer.preferences (bundle: com.ibm.adapter.c, page: com.ibm.adapter.c.ui.preferencepage.CPreferencePage)
+
+!ENTRY org.eclipse.ui 2 2 2023-03-07 22:34:16.997
+!MESSAGE Invalid preference category path: com.ibm.importer.preferences (bundle: com.ibm.etools.cobol.preference.ui, page: com.ibm.etools.cobol.preference.ui.preferencepage.CobolPreferencePage)
+
+!ENTRY org.eclipse.ui 2 2 2023-03-07 22:34:16.997
+!MESSAGE Invalid preference category path: com.ibm.debug.breakpoints.common.pref.tracepoint (bundle: com.ibm.debug.wsa, page: com.ibm.debug.wsa.WSATracepointPreferencePage)
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2023-03-07 22:34:17.542
+!MESSAGE 
+
+!ENTRY org.eclipse.jface.text 2 0 2023-03-07 22:35:15.566
+!MESSAGE Duplicate template id: 'com.ibm.datatools.sqlxeditor.templates.xmlnamespaces2'
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-03-07 22:35:21.016
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\010556749'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.ibm.mq.runtime 1 0 2023-03-07 22:35:21.243
+!MESSAGE 
+
+!ENTRY com.ibm.mq.runtime 1 0 2023-03-07 22:35:21.243
+!MESSAGE C:\Program Files\IBM\ACE\12.0.5.0\tools>mqsifindmqpath
+
+!ENTRY com.ibm.mq.runtime 1 0 2023-03-07 22:35:21.567
+!MESSAGE BIP8071I: Successful command completion. C:\Program Files\IBM\MQ
+
+!ENTRY com.ibm.mq.runtime 1 0 2023-03-07 22:35:21.568
+!MESSAGE MQ Install location found:C:/Program Files/IBM/MQ
+
+!ENTRY com.ibm.mq.runtime 1 0 2023-03-07 22:35:21.568
+!MESSAGE 
+!SESSION 2023-03-07 22:37:07.784 -----------------------------------------------
+eclipse.buildId=4.15.0.2020042
+java.fullversion=8.0.7.5 - pwa6480sr7fp5ifix-20220310_01(SR7 FP5+IJ37785)
+JRE 1.8.0 Windows 11 amd64-64-Bit Compressed References 20220104_19630 (JIT enabled, AOT enabled)
+OpenJ9   - 2d4c7d9
+OMR      - 59845b7
+IBM      - 3c151c1
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b myapp.bar -a HTTPInputApplication -trace -compileOnly
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data C:\aceworkspace -b myapp.bar -a HTTPInputApplication -trace -compileOnly
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-03-07 22:37:09.197
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-03-07 22:37:09.428
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-03-07 22:37:09.429
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-03-07 22:37:09.429
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.pattern.capture.annotation' register a package for 'http://www.ibm.com/patternAnnotation/2010'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-03-07 22:37:09.432
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'org.eclipse.emf.ecore' register a package for 'http://www.eclipse.org/emf/2002/Ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-03-07 22:37:09.438
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2023-03-07 22:37:12.335
+!MESSAGE 
+
+!ENTRY com.ibm.etools.references 4 0 2023-03-07 22:37:27.099
+!MESSAGE Framework stop [EXCEPTION] Exception during shutdown. Indexer will be rebuilt on next startup.
+!STACK 0
+java.lang.NullPointerException
+	at com.ibm.etools.references.internal.management.InternalReferenceManager.hasStar(InternalReferenceManager.java:1394)
+	at com.ibm.etools.references.internal.management.InternalReferenceManager$ShutdownCode.call(InternalReferenceManager.java:175)
+	at com.ibm.etools.references.internal.management.InternalReferenceManager$ShutdownCode.call(InternalReferenceManager.java:1)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:277)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1160)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:825)
+	at com.ibm.etools.references.internal.ReferenceThreadFactrory$ReferencesThread.run(ReferenceThreadFactrory.java:37)
+
+!ENTRY com.ibm.etools.references 4 0 2023-03-07 22:37:27.100
+!MESSAGE bundle com.ibm.etools.references:1.2.400.v20150320_0049 (422)[Reference Manager(1)] : The deactivate method has thrown an exception
+!STACK 0
+java.lang.NullPointerException
+	at com.ibm.etools.references.internal.management.InternalReferenceManager.deactivate(InternalReferenceManager.java:1153)
+	at com.ibm.etools.references.management.ReferenceManager.deactivate(ReferenceManager.java:321)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:90)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:55)
+	at java.lang.reflect.Method.invoke(Method.java:508)
+	at org.apache.felix.scr.impl.inject.methods.BaseMethod.invokeMethod(BaseMethod.java:228)
+	at org.apache.felix.scr.impl.inject.methods.BaseMethod.access$500(BaseMethod.java:41)
+	at org.apache.felix.scr.impl.inject.methods.BaseMethod$Resolved.invoke(BaseMethod.java:664)
+	at org.apache.felix.scr.impl.inject.methods.BaseMethod.invoke(BaseMethod.java:510)
+	at org.apache.felix.scr.impl.inject.methods.ActivateMethod.invoke(ActivateMethod.java:317)
+	at org.apache.felix.scr.impl.inject.methods.ActivateMethod.invoke(ActivateMethod.java:307)
+	at org.apache.felix.scr.impl.manager.SingleComponentManager.disposeImplementationObject(SingleComponentManager.java:407)
+	at org.apache.felix.scr.impl.manager.SingleComponentManager.deleteComponent(SingleComponentManager.java:163)
+	at org.apache.felix.scr.impl.manager.AbstractComponentManager.doDeactivate(AbstractComponentManager.java:831)
+	at org.apache.felix.scr.impl.manager.AbstractComponentManager.deactivateInternal(AbstractComponentManager.java:805)
+	at org.apache.felix.scr.impl.manager.AbstractComponentManager.dispose(AbstractComponentManager.java:584)
+	at org.apache.felix.scr.impl.manager.ConfigurableComponentHolder.disposeComponents(ConfigurableComponentHolder.java:716)
+	at org.apache.felix.scr.impl.BundleComponentActivator.dispose(BundleComponentActivator.java:510)
+	at org.apache.felix.scr.impl.Activator.disposeComponents(Activator.java:429)
+	at org.apache.felix.scr.impl.Activator.access$300(Activator.java:49)
+	at org.apache.felix.scr.impl.Activator$ScrExtension.destroy(Activator.java:292)
+	at org.apache.felix.scr.impl.AbstractExtender$1.run(AbstractExtender.java:216)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:522)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:277)
+	at org.apache.felix.scr.impl.AbstractExtender.destroyExtension(AbstractExtender.java:238)
+	at org.apache.felix.scr.impl.AbstractExtender.bundleChanged(AbstractExtender.java:132)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.dispatchEvent(BundleContextImpl.java:973)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:151)
+	at org.eclipse.osgi.internal.framework.EquinoxEventPublisher.publishBundleEventPrivileged(EquinoxEventPublisher.java:235)
+	at org.eclipse.osgi.internal.framework.EquinoxEventPublisher.publishBundleEvent(EquinoxEventPublisher.java:141)
+	at org.eclipse.osgi.internal.framework.EquinoxEventPublisher.publishBundleEvent(EquinoxEventPublisher.java:133)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor.publishModuleEvent(EquinoxContainerAdaptor.java:217)
+	at org.eclipse.osgi.container.Module.publishEvent(Module.java:498)
+	at org.eclipse.osgi.container.Module.doStop(Module.java:656)
+	at org.eclipse.osgi.container.Module.stop(Module.java:520)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.decStartLevel(ModuleContainer.java:1885)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1760)
+	at org.eclipse.osgi.container.SystemModule.stopWorker(SystemModule.java:275)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$SystemBundle$EquinoxSystemModule.stopWorker(EquinoxBundle.java:202)
+	at org.eclipse.osgi.container.Module.doStop(Module.java:658)
+	at org.eclipse.osgi.container.Module.stop(Module.java:520)
+	at org.eclipse.osgi.container.SystemModule.stop(SystemModule.java:207)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$SystemBundle$EquinoxSystemModule$1.run(EquinoxBundle.java:220)
+	at java.lang.Thread.run(Thread.java:825)
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-03-07 22:37:27.700
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2023-03-07 22:38:39.825 -----------------------------------------------
+eclipse.buildId=4.15.0.2020042
+java.fullversion=8.0.7.5 - pwa6480sr7fp5ifix-20220310_01(SR7 FP5+IJ37785)
+JRE 1.8.0 Windows 11 amd64-64-Bit Compressed References 20220104_19630 (JIT enabled, AOT enabled)
+OpenJ9   - 2d4c7d9
+OMR      - 59845b7
+IBM      - 3c151c1
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b myapp.bar -a HTTPInputApplication -trace -compileOnly
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data C:\aceworkspace -b myapp.bar -a HTTPInputApplication -trace -compileOnly
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-03-07 22:38:41.263
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-03-07 22:38:41.455
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-03-07 22:38:41.455
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-03-07 22:38:41.456
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.pattern.capture.annotation' register a package for 'http://www.ibm.com/patternAnnotation/2010'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-03-07 22:38:41.458
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'org.eclipse.emf.ecore' register a package for 'http://www.eclipse.org/emf/2002/Ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-03-07 22:38:41.465
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2023-03-07 22:38:44.397
+!MESSAGE 
+
+!ENTRY com.ibm.etools.references 4 0 2023-03-07 22:38:58.142
+!MESSAGE Framework stop [EXCEPTION] Exception during shutdown. Indexer will be rebuilt on next startup.
+!STACK 0
+java.lang.NullPointerException
+	at com.ibm.etools.references.internal.management.InternalReferenceManager.hasStar(InternalReferenceManager.java:1394)
+	at com.ibm.etools.references.internal.management.InternalReferenceManager$ShutdownCode.call(InternalReferenceManager.java:175)
+	at com.ibm.etools.references.internal.management.InternalReferenceManager$ShutdownCode.call(InternalReferenceManager.java:1)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:277)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1160)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:825)
+	at com.ibm.etools.references.internal.ReferenceThreadFactrory$ReferencesThread.run(ReferenceThreadFactrory.java:37)
+
+!ENTRY com.ibm.etools.references 4 0 2023-03-07 22:38:58.144
+!MESSAGE bundle com.ibm.etools.references:1.2.400.v20150320_0049 (422)[Reference Manager(1)] : The deactivate method has thrown an exception
+!STACK 0
+java.lang.NullPointerException
+	at com.ibm.etools.references.internal.management.InternalReferenceManager.deactivate(InternalReferenceManager.java:1153)
+	at com.ibm.etools.references.management.ReferenceManager.deactivate(ReferenceManager.java:321)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:90)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:55)
+	at java.lang.reflect.Method.invoke(Method.java:508)
+	at org.apache.felix.scr.impl.inject.methods.BaseMethod.invokeMethod(BaseMethod.java:228)
+	at org.apache.felix.scr.impl.inject.methods.BaseMethod.access$500(BaseMethod.java:41)
+	at org.apache.felix.scr.impl.inject.methods.BaseMethod$Resolved.invoke(BaseMethod.java:664)
+	at org.apache.felix.scr.impl.inject.methods.BaseMethod.invoke(BaseMethod.java:510)
+	at org.apache.felix.scr.impl.inject.methods.ActivateMethod.invoke(ActivateMethod.java:317)
+	at org.apache.felix.scr.impl.inject.methods.ActivateMethod.invoke(ActivateMethod.java:307)
+	at org.apache.felix.scr.impl.manager.SingleComponentManager.disposeImplementationObject(SingleComponentManager.java:407)
+	at org.apache.felix.scr.impl.manager.SingleComponentManager.deleteComponent(SingleComponentManager.java:163)
+	at org.apache.felix.scr.impl.manager.AbstractComponentManager.doDeactivate(AbstractComponentManager.java:831)
+	at org.apache.felix.scr.impl.manager.AbstractComponentManager.deactivateInternal(AbstractComponentManager.java:805)
+	at org.apache.felix.scr.impl.manager.AbstractComponentManager.dispose(AbstractComponentManager.java:584)
+	at org.apache.felix.scr.impl.manager.ConfigurableComponentHolder.disposeComponents(ConfigurableComponentHolder.java:716)
+	at org.apache.felix.scr.impl.BundleComponentActivator.dispose(BundleComponentActivator.java:510)
+	at org.apache.felix.scr.impl.Activator.disposeComponents(Activator.java:429)
+	at org.apache.felix.scr.impl.Activator.access$300(Activator.java:49)
+	at org.apache.felix.scr.impl.Activator$ScrExtension.destroy(Activator.java:292)
+	at org.apache.felix.scr.impl.AbstractExtender$1.run(AbstractExtender.java:216)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:522)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:277)
+	at org.apache.felix.scr.impl.AbstractExtender.destroyExtension(AbstractExtender.java:238)
+	at org.apache.felix.scr.impl.AbstractExtender.bundleChanged(AbstractExtender.java:132)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.dispatchEvent(BundleContextImpl.java:973)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:151)
+	at org.eclipse.osgi.internal.framework.EquinoxEventPublisher.publishBundleEventPrivileged(EquinoxEventPublisher.java:235)
+	at org.eclipse.osgi.internal.framework.EquinoxEventPublisher.publishBundleEvent(EquinoxEventPublisher.java:141)
+	at org.eclipse.osgi.internal.framework.EquinoxEventPublisher.publishBundleEvent(EquinoxEventPublisher.java:133)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor.publishModuleEvent(EquinoxContainerAdaptor.java:217)
+	at org.eclipse.osgi.container.Module.publishEvent(Module.java:498)
+	at org.eclipse.osgi.container.Module.doStop(Module.java:656)
+	at org.eclipse.osgi.container.Module.stop(Module.java:520)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.decStartLevel(ModuleContainer.java:1885)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1760)
+	at org.eclipse.osgi.container.SystemModule.stopWorker(SystemModule.java:275)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$SystemBundle$EquinoxSystemModule.stopWorker(EquinoxBundle.java:202)
+	at org.eclipse.osgi.container.Module.doStop(Module.java:658)
+	at org.eclipse.osgi.container.Module.stop(Module.java:520)
+	at org.eclipse.osgi.container.SystemModule.stop(SystemModule.java:207)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$SystemBundle$EquinoxSystemModule$1.run(EquinoxBundle.java:220)
+	at java.lang.Thread.run(Thread.java:825)
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-03-07 22:38:58.746
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2023-03-07 22:40:40.120 -----------------------------------------------
+eclipse.buildId=4.15.0.2020042
+java.fullversion=8.0.7.5 - pwa6480sr7fp5ifix-20220310_01(SR7 FP5+IJ37785)
+JRE 1.8.0 Windows 11 amd64-64-Bit Compressed References 20220104_19630 (JIT enabled, AOT enabled)
+OpenJ9   - 2d4c7d9
+OMR      - 59845b7
+IBM      - 3c151c1
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b myapp.bar -a HTTPInputApplication -trace -compileOnly
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data C:\aceworkspace -b myapp.bar -a HTTPInputApplication -trace -compileOnly
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-03-07 22:40:41.593
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-03-07 22:40:41.810
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-03-07 22:40:41.810
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-03-07 22:40:41.811
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.pattern.capture.annotation' register a package for 'http://www.ibm.com/patternAnnotation/2010'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-03-07 22:40:41.813
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'org.eclipse.emf.ecore' register a package for 'http://www.eclipse.org/emf/2002/Ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-03-07 22:40:41.821
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2023-03-07 22:40:45.029
+!MESSAGE 
+
+!ENTRY com.ibm.etools.references 4 0 2023-03-07 22:40:58.543
+!MESSAGE Framework stop [EXCEPTION] Exception during shutdown. Indexer will be rebuilt on next startup.
+!STACK 0
+java.lang.NullPointerException
+	at com.ibm.etools.references.internal.management.InternalReferenceManager.hasStar(InternalReferenceManager.java:1394)
+	at com.ibm.etools.references.internal.management.InternalReferenceManager$ShutdownCode.call(InternalReferenceManager.java:175)
+	at com.ibm.etools.references.internal.management.InternalReferenceManager$ShutdownCode.call(InternalReferenceManager.java:1)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:277)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1160)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:825)
+	at com.ibm.etools.references.internal.ReferenceThreadFactrory$ReferencesThread.run(ReferenceThreadFactrory.java:37)
+
+!ENTRY com.ibm.etools.references 4 0 2023-03-07 22:40:58.544
+!MESSAGE bundle com.ibm.etools.references:1.2.400.v20150320_0049 (422)[Reference Manager(1)] : The deactivate method has thrown an exception
+!STACK 0
+java.lang.NullPointerException
+	at com.ibm.etools.references.internal.management.InternalReferenceManager.deactivate(InternalReferenceManager.java:1153)
+	at com.ibm.etools.references.management.ReferenceManager.deactivate(ReferenceManager.java:321)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:90)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:55)
+	at java.lang.reflect.Method.invoke(Method.java:508)
+	at org.apache.felix.scr.impl.inject.methods.BaseMethod.invokeMethod(BaseMethod.java:228)
+	at org.apache.felix.scr.impl.inject.methods.BaseMethod.access$500(BaseMethod.java:41)
+	at org.apache.felix.scr.impl.inject.methods.BaseMethod$Resolved.invoke(BaseMethod.java:664)
+	at org.apache.felix.scr.impl.inject.methods.BaseMethod.invoke(BaseMethod.java:510)
+	at org.apache.felix.scr.impl.inject.methods.ActivateMethod.invoke(ActivateMethod.java:317)
+	at org.apache.felix.scr.impl.inject.methods.ActivateMethod.invoke(ActivateMethod.java:307)
+	at org.apache.felix.scr.impl.manager.SingleComponentManager.disposeImplementationObject(SingleComponentManager.java:407)
+	at org.apache.felix.scr.impl.manager.SingleComponentManager.deleteComponent(SingleComponentManager.java:163)
+	at org.apache.felix.scr.impl.manager.AbstractComponentManager.doDeactivate(AbstractComponentManager.java:831)
+	at org.apache.felix.scr.impl.manager.AbstractComponentManager.deactivateInternal(AbstractComponentManager.java:805)
+	at org.apache.felix.scr.impl.manager.AbstractComponentManager.dispose(AbstractComponentManager.java:584)
+	at org.apache.felix.scr.impl.manager.ConfigurableComponentHolder.disposeComponents(ConfigurableComponentHolder.java:716)
+	at org.apache.felix.scr.impl.BundleComponentActivator.dispose(BundleComponentActivator.java:510)
+	at org.apache.felix.scr.impl.Activator.disposeComponents(Activator.java:429)
+	at org.apache.felix.scr.impl.Activator.access$300(Activator.java:49)
+	at org.apache.felix.scr.impl.Activator$ScrExtension.destroy(Activator.java:292)
+	at org.apache.felix.scr.impl.AbstractExtender$1.run(AbstractExtender.java:216)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:522)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:277)
+	at org.apache.felix.scr.impl.AbstractExtender.destroyExtension(AbstractExtender.java:238)
+	at org.apache.felix.scr.impl.AbstractExtender.bundleChanged(AbstractExtender.java:132)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.dispatchEvent(BundleContextImpl.java:973)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:151)
+	at org.eclipse.osgi.internal.framework.EquinoxEventPublisher.publishBundleEventPrivileged(EquinoxEventPublisher.java:235)
+	at org.eclipse.osgi.internal.framework.EquinoxEventPublisher.publishBundleEvent(EquinoxEventPublisher.java:141)
+	at org.eclipse.osgi.internal.framework.EquinoxEventPublisher.publishBundleEvent(EquinoxEventPublisher.java:133)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor.publishModuleEvent(EquinoxContainerAdaptor.java:217)
+	at org.eclipse.osgi.container.Module.publishEvent(Module.java:498)
+	at org.eclipse.osgi.container.Module.doStop(Module.java:656)
+	at org.eclipse.osgi.container.Module.stop(Module.java:520)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.decStartLevel(ModuleContainer.java:1885)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1760)
+	at org.eclipse.osgi.container.SystemModule.stopWorker(SystemModule.java:275)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$SystemBundle$EquinoxSystemModule.stopWorker(EquinoxBundle.java:202)
+	at org.eclipse.osgi.container.Module.doStop(Module.java:658)
+	at org.eclipse.osgi.container.Module.stop(Module.java:520)
+	at org.eclipse.osgi.container.SystemModule.stop(SystemModule.java:207)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$SystemBundle$EquinoxSystemModule$1.run(EquinoxBundle.java:220)
+	at java.lang.Thread.run(Thread.java:825)
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-03-07 22:40:59.139
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2023-03-07 22:44:21.618 -----------------------------------------------
+eclipse.buildId=4.15.0.2020042
+java.fullversion=8.0.7.5 - pwa6480sr7fp5ifix-20220310_01(SR7 FP5+IJ37785)
+JRE 1.8.0 Windows 11 amd64-64-Bit Compressed References 20220104_19630 (JIT enabled, AOT enabled)
+OpenJ9   - 2d4c7d9
+OMR      - 59845b7
+IBM      - 3c151c1
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b myapp.bar -a HTTPInputApplication -trace -compileOnly
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data C:\aceworkspace -b myapp.bar -a HTTPInputApplication -trace -compileOnly
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-03-07 22:44:23.134
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-03-07 22:44:23.351
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-03-07 22:44:23.351
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-03-07 22:44:23.352
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.pattern.capture.annotation' register a package for 'http://www.ibm.com/patternAnnotation/2010'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-03-07 22:44:23.354
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'org.eclipse.emf.ecore' register a package for 'http://www.eclipse.org/emf/2002/Ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-03-07 22:44:23.361
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2023-03-07 22:44:26.418
+!MESSAGE 
+
+!ENTRY com.ibm.etools.references 4 0 2023-03-07 22:44:40.040
+!MESSAGE Framework stop [EXCEPTION] Exception during shutdown. Indexer will be rebuilt on next startup.
+!STACK 0
+java.lang.NullPointerException
+	at com.ibm.etools.references.internal.management.InternalReferenceManager.hasStar(InternalReferenceManager.java:1394)
+	at com.ibm.etools.references.internal.management.InternalReferenceManager$ShutdownCode.call(InternalReferenceManager.java:175)
+	at com.ibm.etools.references.internal.management.InternalReferenceManager$ShutdownCode.call(InternalReferenceManager.java:1)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:277)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1160)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:825)
+	at com.ibm.etools.references.internal.ReferenceThreadFactrory$ReferencesThread.run(ReferenceThreadFactrory.java:37)
+
+!ENTRY com.ibm.etools.references 4 0 2023-03-07 22:44:40.041
+!MESSAGE bundle com.ibm.etools.references:1.2.400.v20150320_0049 (422)[Reference Manager(1)] : The deactivate method has thrown an exception
+!STACK 0
+java.lang.NullPointerException
+	at com.ibm.etools.references.internal.management.InternalReferenceManager.deactivate(InternalReferenceManager.java:1153)
+	at com.ibm.etools.references.management.ReferenceManager.deactivate(ReferenceManager.java:321)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:90)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:55)
+	at java.lang.reflect.Method.invoke(Method.java:508)
+	at org.apache.felix.scr.impl.inject.methods.BaseMethod.invokeMethod(BaseMethod.java:228)
+	at org.apache.felix.scr.impl.inject.methods.BaseMethod.access$500(BaseMethod.java:41)
+	at org.apache.felix.scr.impl.inject.methods.BaseMethod$Resolved.invoke(BaseMethod.java:664)
+	at org.apache.felix.scr.impl.inject.methods.BaseMethod.invoke(BaseMethod.java:510)
+	at org.apache.felix.scr.impl.inject.methods.ActivateMethod.invoke(ActivateMethod.java:317)
+	at org.apache.felix.scr.impl.inject.methods.ActivateMethod.invoke(ActivateMethod.java:307)
+	at org.apache.felix.scr.impl.manager.SingleComponentManager.disposeImplementationObject(SingleComponentManager.java:407)
+	at org.apache.felix.scr.impl.manager.SingleComponentManager.deleteComponent(SingleComponentManager.java:163)
+	at org.apache.felix.scr.impl.manager.AbstractComponentManager.doDeactivate(AbstractComponentManager.java:831)
+	at org.apache.felix.scr.impl.manager.AbstractComponentManager.deactivateInternal(AbstractComponentManager.java:805)
+	at org.apache.felix.scr.impl.manager.AbstractComponentManager.dispose(AbstractComponentManager.java:584)
+	at org.apache.felix.scr.impl.manager.ConfigurableComponentHolder.disposeComponents(ConfigurableComponentHolder.java:716)
+	at org.apache.felix.scr.impl.BundleComponentActivator.dispose(BundleComponentActivator.java:510)
+	at org.apache.felix.scr.impl.Activator.disposeComponents(Activator.java:429)
+	at org.apache.felix.scr.impl.Activator.access$300(Activator.java:49)
+	at org.apache.felix.scr.impl.Activator$ScrExtension.destroy(Activator.java:292)
+	at org.apache.felix.scr.impl.AbstractExtender$1.run(AbstractExtender.java:216)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:522)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:277)
+	at org.apache.felix.scr.impl.AbstractExtender.destroyExtension(AbstractExtender.java:238)
+	at org.apache.felix.scr.impl.AbstractExtender.bundleChanged(AbstractExtender.java:132)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.dispatchEvent(BundleContextImpl.java:973)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:151)
+	at org.eclipse.osgi.internal.framework.EquinoxEventPublisher.publishBundleEventPrivileged(EquinoxEventPublisher.java:235)
+	at org.eclipse.osgi.internal.framework.EquinoxEventPublisher.publishBundleEvent(EquinoxEventPublisher.java:141)
+	at org.eclipse.osgi.internal.framework.EquinoxEventPublisher.publishBundleEvent(EquinoxEventPublisher.java:133)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor.publishModuleEvent(EquinoxContainerAdaptor.java:217)
+	at org.eclipse.osgi.container.Module.publishEvent(Module.java:498)
+	at org.eclipse.osgi.container.Module.doStop(Module.java:656)
+	at org.eclipse.osgi.container.Module.stop(Module.java:520)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.decStartLevel(ModuleContainer.java:1885)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1760)
+	at org.eclipse.osgi.container.SystemModule.stopWorker(SystemModule.java:275)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$SystemBundle$EquinoxSystemModule.stopWorker(EquinoxBundle.java:202)
+	at org.eclipse.osgi.container.Module.doStop(Module.java:658)
+	at org.eclipse.osgi.container.Module.stop(Module.java:520)
+	at org.eclipse.osgi.container.SystemModule.stop(SystemModule.java:207)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$SystemBundle$EquinoxSystemModule$1.run(EquinoxBundle.java:220)
+	at java.lang.Thread.run(Thread.java:825)
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-03-07 22:44:40.629
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2023-03-07 22:47:31.077 -----------------------------------------------
+eclipse.buildId=4.15.0.2020042
+java.fullversion=8.0.7.5 - pwa6480sr7fp5ifix-20220310_01(SR7 FP5+IJ37785)
+JRE 1.8.0 Windows 11 amd64-64-Bit Compressed References 20220104_19630 (JIT enabled, AOT enabled)
+OpenJ9   - 2d4c7d9
+OMR      - 59845b7
+IBM      - 3c151c1
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b myapp.bar -a HTTPInputApplication -trace -compileOnly
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data C:\aceworkspace -b myapp.bar -a HTTPInputApplication -trace -compileOnly
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-03-07 22:47:32.526
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-03-07 22:47:32.730
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-03-07 22:47:32.731
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-03-07 22:47:32.731
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.pattern.capture.annotation' register a package for 'http://www.ibm.com/patternAnnotation/2010'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-03-07 22:47:32.734
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'org.eclipse.emf.ecore' register a package for 'http://www.eclipse.org/emf/2002/Ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-03-07 22:47:32.740
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2023-03-07 22:47:35.822
+!MESSAGE 
+
+!ENTRY com.ibm.etools.references 4 0 2023-03-07 22:47:49.400
+!MESSAGE Framework stop [EXCEPTION] Exception during shutdown. Indexer will be rebuilt on next startup.
+!STACK 0
+java.lang.NullPointerException
+	at com.ibm.etools.references.internal.management.InternalReferenceManager.hasStar(InternalReferenceManager.java:1394)
+	at com.ibm.etools.references.internal.management.InternalReferenceManager$ShutdownCode.call(InternalReferenceManager.java:175)
+	at com.ibm.etools.references.internal.management.InternalReferenceManager$ShutdownCode.call(InternalReferenceManager.java:1)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:277)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1160)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:825)
+	at com.ibm.etools.references.internal.ReferenceThreadFactrory$ReferencesThread.run(ReferenceThreadFactrory.java:37)
+
+!ENTRY com.ibm.etools.references 4 0 2023-03-07 22:47:49.401
+!MESSAGE bundle com.ibm.etools.references:1.2.400.v20150320_0049 (422)[Reference Manager(1)] : The deactivate method has thrown an exception
+!STACK 0
+java.lang.NullPointerException
+	at com.ibm.etools.references.internal.management.InternalReferenceManager.deactivate(InternalReferenceManager.java:1153)
+	at com.ibm.etools.references.management.ReferenceManager.deactivate(ReferenceManager.java:321)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:90)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:55)
+	at java.lang.reflect.Method.invoke(Method.java:508)
+	at org.apache.felix.scr.impl.inject.methods.BaseMethod.invokeMethod(BaseMethod.java:228)
+	at org.apache.felix.scr.impl.inject.methods.BaseMethod.access$500(BaseMethod.java:41)
+	at org.apache.felix.scr.impl.inject.methods.BaseMethod$Resolved.invoke(BaseMethod.java:664)
+	at org.apache.felix.scr.impl.inject.methods.BaseMethod.invoke(BaseMethod.java:510)
+	at org.apache.felix.scr.impl.inject.methods.ActivateMethod.invoke(ActivateMethod.java:317)
+	at org.apache.felix.scr.impl.inject.methods.ActivateMethod.invoke(ActivateMethod.java:307)
+	at org.apache.felix.scr.impl.manager.SingleComponentManager.disposeImplementationObject(SingleComponentManager.java:407)
+	at org.apache.felix.scr.impl.manager.SingleComponentManager.deleteComponent(SingleComponentManager.java:163)
+	at org.apache.felix.scr.impl.manager.AbstractComponentManager.doDeactivate(AbstractComponentManager.java:831)
+	at org.apache.felix.scr.impl.manager.AbstractComponentManager.deactivateInternal(AbstractComponentManager.java:805)
+	at org.apache.felix.scr.impl.manager.AbstractComponentManager.dispose(AbstractComponentManager.java:584)
+	at org.apache.felix.scr.impl.manager.ConfigurableComponentHolder.disposeComponents(ConfigurableComponentHolder.java:716)
+	at org.apache.felix.scr.impl.BundleComponentActivator.dispose(BundleComponentActivator.java:510)
+	at org.apache.felix.scr.impl.Activator.disposeComponents(Activator.java:429)
+	at org.apache.felix.scr.impl.Activator.access$300(Activator.java:49)
+	at org.apache.felix.scr.impl.Activator$ScrExtension.destroy(Activator.java:292)
+	at org.apache.felix.scr.impl.AbstractExtender$1.run(AbstractExtender.java:216)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:522)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:277)
+	at org.apache.felix.scr.impl.AbstractExtender.destroyExtension(AbstractExtender.java:238)
+	at org.apache.felix.scr.impl.AbstractExtender.bundleChanged(AbstractExtender.java:132)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.dispatchEvent(BundleContextImpl.java:973)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:151)
+	at org.eclipse.osgi.internal.framework.EquinoxEventPublisher.publishBundleEventPrivileged(EquinoxEventPublisher.java:235)
+	at org.eclipse.osgi.internal.framework.EquinoxEventPublisher.publishBundleEvent(EquinoxEventPublisher.java:141)
+	at org.eclipse.osgi.internal.framework.EquinoxEventPublisher.publishBundleEvent(EquinoxEventPublisher.java:133)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor.publishModuleEvent(EquinoxContainerAdaptor.java:217)
+	at org.eclipse.osgi.container.Module.publishEvent(Module.java:498)
+	at org.eclipse.osgi.container.Module.doStop(Module.java:656)
+	at org.eclipse.osgi.container.Module.stop(Module.java:520)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.decStartLevel(ModuleContainer.java:1885)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1760)
+	at org.eclipse.osgi.container.SystemModule.stopWorker(SystemModule.java:275)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$SystemBundle$EquinoxSystemModule.stopWorker(EquinoxBundle.java:202)
+	at org.eclipse.osgi.container.Module.doStop(Module.java:658)
+	at org.eclipse.osgi.container.Module.stop(Module.java:520)
+	at org.eclipse.osgi.container.SystemModule.stop(SystemModule.java:207)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$SystemBundle$EquinoxSystemModule$1.run(EquinoxBundle.java:220)
+	at java.lang.Thread.run(Thread.java:825)
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-03-07 22:47:49.991
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2023-03-07 22:48:42.349 -----------------------------------------------
+eclipse.buildId=4.15.0.2020042
+java.fullversion=8.0.7.5 - pwa6480sr7fp5ifix-20220310_01(SR7 FP5+IJ37785)
+JRE 1.8.0 Windows 11 amd64-64-Bit Compressed References 20220104_19630 (JIT enabled, AOT enabled)
+OpenJ9   - 2d4c7d9
+OMR      - 59845b7
+IBM      - 3c151c1
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b myapp.bar -a HTTPInputApplication -trace -compileOnly
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data C:\aceworkspace -b myapp.bar -a HTTPInputApplication -trace -compileOnly
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-03-07 22:48:43.832
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-03-07 22:48:44.036
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-03-07 22:48:44.037
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'com.ibm.etools.mft.gef.emf' register a package for 'http://www.ibm.com/wbi/2005/eflow_utility'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-03-07 22:48:44.037
+!MESSAGE Both 'com.ibm.etools.mft.fcb' and 'com.ibm.etools.mft.pattern.capture.annotation' register a package for 'http://www.ibm.com/patternAnnotation/2010'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-03-07 22:48:44.040
+!MESSAGE Both 'com.ibm.etools.mft.gef.emf' and 'org.eclipse.emf.ecore' register a package for 'http://www.eclipse.org/emf/2002/Ecore'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-03-07 22:48:44.046
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2023-03-07 22:48:47.308
+!MESSAGE 
+
+!ENTRY com.ibm.etools.references 4 0 2023-03-07 22:49:00.705
+!MESSAGE Framework stop [EXCEPTION] Exception during shutdown. Indexer will be rebuilt on next startup.
+!STACK 0
+java.lang.NullPointerException
+	at com.ibm.etools.references.internal.management.InternalReferenceManager.hasStar(InternalReferenceManager.java:1394)
+	at com.ibm.etools.references.internal.management.InternalReferenceManager$ShutdownCode.call(InternalReferenceManager.java:175)
+	at com.ibm.etools.references.internal.management.InternalReferenceManager$ShutdownCode.call(InternalReferenceManager.java:1)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:277)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1160)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:825)
+	at com.ibm.etools.references.internal.ReferenceThreadFactrory$ReferencesThread.run(ReferenceThreadFactrory.java:37)
+
+!ENTRY com.ibm.etools.references 4 0 2023-03-07 22:49:00.706
+!MESSAGE bundle com.ibm.etools.references:1.2.400.v20150320_0049 (422)[Reference Manager(1)] : The deactivate method has thrown an exception
+!STACK 0
+java.lang.NullPointerException
+	at com.ibm.etools.references.internal.management.InternalReferenceManager.deactivate(InternalReferenceManager.java:1153)
+	at com.ibm.etools.references.management.ReferenceManager.deactivate(ReferenceManager.java:321)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:90)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:55)
+	at java.lang.reflect.Method.invoke(Method.java:508)
+	at org.apache.felix.scr.impl.inject.methods.BaseMethod.invokeMethod(BaseMethod.java:228)
+	at org.apache.felix.scr.impl.inject.methods.BaseMethod.access$500(BaseMethod.java:41)
+	at org.apache.felix.scr.impl.inject.methods.BaseMethod$Resolved.invoke(BaseMethod.java:664)
+	at org.apache.felix.scr.impl.inject.methods.BaseMethod.invoke(BaseMethod.java:510)
+	at org.apache.felix.scr.impl.inject.methods.ActivateMethod.invoke(ActivateMethod.java:317)
+	at org.apache.felix.scr.impl.inject.methods.ActivateMethod.invoke(ActivateMethod.java:307)
+	at org.apache.felix.scr.impl.manager.SingleComponentManager.disposeImplementationObject(SingleComponentManager.java:407)
+	at org.apache.felix.scr.impl.manager.SingleComponentManager.deleteComponent(SingleComponentManager.java:163)
+	at org.apache.felix.scr.impl.manager.AbstractComponentManager.doDeactivate(AbstractComponentManager.java:831)
+	at org.apache.felix.scr.impl.manager.AbstractComponentManager.deactivateInternal(AbstractComponentManager.java:805)
+	at org.apache.felix.scr.impl.manager.AbstractComponentManager.dispose(AbstractComponentManager.java:584)
+	at org.apache.felix.scr.impl.manager.ConfigurableComponentHolder.disposeComponents(ConfigurableComponentHolder.java:716)
+	at org.apache.felix.scr.impl.BundleComponentActivator.dispose(BundleComponentActivator.java:510)
+	at org.apache.felix.scr.impl.Activator.disposeComponents(Activator.java:429)
+	at org.apache.felix.scr.impl.Activator.access$300(Activator.java:49)
+	at org.apache.felix.scr.impl.Activator$ScrExtension.destroy(Activator.java:292)
+	at org.apache.felix.scr.impl.AbstractExtender$1.run(AbstractExtender.java:216)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:522)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:277)
+	at org.apache.felix.scr.impl.AbstractExtender.destroyExtension(AbstractExtender.java:238)
+	at org.apache.felix.scr.impl.AbstractExtender.bundleChanged(AbstractExtender.java:132)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.dispatchEvent(BundleContextImpl.java:973)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:151)
+	at org.eclipse.osgi.internal.framework.EquinoxEventPublisher.publishBundleEventPrivileged(EquinoxEventPublisher.java:235)
+	at org.eclipse.osgi.internal.framework.EquinoxEventPublisher.publishBundleEvent(EquinoxEventPublisher.java:141)
+	at org.eclipse.osgi.internal.framework.EquinoxEventPublisher.publishBundleEvent(EquinoxEventPublisher.java:133)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor.publishModuleEvent(EquinoxContainerAdaptor.java:217)
+	at org.eclipse.osgi.container.Module.publishEvent(Module.java:498)
+	at org.eclipse.osgi.container.Module.doStop(Module.java:656)
+	at org.eclipse.osgi.container.Module.stop(Module.java:520)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.decStartLevel(ModuleContainer.java:1885)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1760)
+	at org.eclipse.osgi.container.SystemModule.stopWorker(SystemModule.java:275)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$SystemBundle$EquinoxSystemModule.stopWorker(EquinoxBundle.java:202)
+	at org.eclipse.osgi.container.Module.doStop(Module.java:658)
+	at org.eclipse.osgi.container.Module.stop(Module.java:520)
+	at org.eclipse.osgi.container.SystemModule.stop(SystemModule.java:207)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$SystemBundle$EquinoxSystemModule$1.run(EquinoxBundle.java:220)
+	at java.lang.Thread.run(Thread.java:825)
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-03-07 22:49:01.376
+!MESSAGE The workspace will exit with unsaved changes in this session.

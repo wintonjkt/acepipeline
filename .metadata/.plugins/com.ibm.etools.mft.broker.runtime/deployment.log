@@ -1,0 +1,6 @@
+HTTPInputApplication>>TEST_NODE>>server>>SUCCESS>>1678195886942
+BIP9332I<<Application 'HTTPInputApplication' has been created successfully. <<1678195886942
+BIP9326I<<The source 'HTTPInputApplicationproject.TestMode.bar' has been successfully deployed. <<1678195886942
+HTTPInputApplication>>TEST_NODE>>server>>SUCCESS>>1678201757977
+BIP9332I<<Application 'HTTPInputApplication' has been changed successfully. <<1678201757977
+BIP9326I<<The source 'HTTPInputApplicationproject.generated.bar' has been successfully deployed. <<1678201757977
