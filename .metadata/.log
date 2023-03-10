@@ -1141,3 +1141,9 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY com.ibm.mq.runtime 1 0 2023-03-10 10:18:22.153
 !MESSAGE 
+
+!ENTRY com.ibm.etools.mft.tutorials 1 0 2023-03-10 14:10:12.611
+!MESSAGE Waiting for the builds to complete
+
+!ENTRY com.ibm.etools.mft.tutorials 1 0 2023-03-10 14:10:19.699
+!MESSAGE Build jobs completed.

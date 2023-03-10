@@ -5,4 +5,10 @@
 <workingSet editPageId="com.ibm.etools.mft.navigator.BrokerWorkingSet.AppLib" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1678195833526_2" label="[HTTPInputApplication]" name="[HTTPInputApplication]">
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/HTTPInputApplication" type="4"/>
 </workingSet>
+<workingSet editPageId="com.ibm.etools.mft.navigator.BrokerWorkingSet.AppLib" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1678432212330_3" label="[KafkaConsumerApplication]" name="[KafkaConsumerApplication]">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/KafkaConsumerApplication" type="4"/>
+</workingSet>
+<workingSet editPageId="com.ibm.etools.mft.navigator.BrokerWorkingSet.AppLib" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1678432212340_4" label="[KafkaProducerApplication]" name="[KafkaProducerApplication]">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/KafkaProducerApplication" type="4"/>
+</workingSet>
 </workingSetManager>
